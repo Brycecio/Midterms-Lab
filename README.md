@@ -8,12 +8,11 @@ This is my File for the whole 2nd Semester
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Learning+HTML+and+CSS;Building+my+coding+journey!" />
 </p>
 
-🌷 About Me
-👩‍💻 Beginner Web Developer
-🌱 Currently learning HTML and CSS
-💡 Interested in creating websites
+🌷 About Me 🌷
+👩‍💻 Low Class Beginner Soon To Be Web Developer
+🌱 Currently Yearning HTML and CSS
+💡 Committed To Yearn And Learn
 🚀 Learning something new every day
-🛠️ My Skills
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
