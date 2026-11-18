@@ -1,6 +1,6 @@
 # Midterms-Lab
-This is my File for the whole 2nd Semister
-👋 Hi, I'm [Your Name]!
+This is my File for the whole 2nd Semester
+👋 Hi, I'm [Narbay, John Bryce Dj B.]!
 
 💻 Aspiring Developer | 🌱 Learning to Code | 🚀 Building My Future in Tech
 
