@@ -1,25 +1,30 @@
 # Midterms-Lab
 This is my File for the whole 2nd Semester
-👋 Hi, I'm [Narbay, John Bryce Dj B.]!
+🌸 Hello, World! I'm [Your Name]
 
-💻 Aspiring Developer | 🌱 Learning to Code | 🚀 Building My Future in Tech
+<h3 align="center">💻 Aspiring Web Developer | HTML Enthusiast</h3>
 
-Welcome to my GitHub profile!
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Learning+HTML+and+CSS;Building+my+coding+journey!" />
+</p>
 
-I'm passionate about technology, programming, and creating projects that solve real-world problems. I'm currently exploring different programming languages, improving my coding skills, and learning something new every day.
+🌷 About Me
+👩‍💻 Beginner Web Developer
+🌱 Currently learning HTML and CSS
+💡 Interested in creating websites
+🚀 Learning something new every day
+🛠️ My Skills
 
-🛠️ Technologies & Tools
-💻 HTML, CSS, JavaScript
-🐍 Python
-☕ Java
-🔧 Git & GitHub
-🎯 My Goals
-Learn new programming languages and technologies.
-Build creative and useful projects.
-Improve my problem-solving skills.
-Collaborate with other developers.
-📫 Let's Connect!
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-Thanks for visiting my profile! Feel free to explore my repositories and follow my coding journey.
+🎯 My Goal
 
-"Every expert was once a beginner. Keep coding, keep growing!" 🚀
+To become a successful developer and create amazing things through code.
+
+<p align="center">
+<b>✨ "Code your dreams into reality." ✨</b>
+</p>
