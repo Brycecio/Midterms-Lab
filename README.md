@@ -16,6 +16,7 @@ This is my File for the whole 2nd Semester
 
 🎯 My Goal
 
+<p align="center">
 To become a successful developer and create amazing things through code.
 
 <p align="center">
