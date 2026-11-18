@@ -1,6 +1,6 @@
 # Midterms-Lab
 This is my File for the whole 2nd Semester
-🌸 Hello, World! I'm Narbay, John Bryce Dj B.
+:fire: Hello, World! I'm Narbay, John Bryce Dj B.
 
 <h3 align="center">💻 Aspiring Web Developer | HTML Enthusiast</h3>
 
