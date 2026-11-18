@@ -8,17 +8,11 @@ This is my File for the whole 2nd Semester
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Learning+HTML+and+CSS;Building+my+coding+journey!" />
 </p>
 
-🌷 About Me 🌷
-👩‍💻 Low Class Beginner Soon To Be Web Developer
-🌱 Currently Yearning HTML and CSS
-💡 Committed To Yearn And Learn
-🚀 Learning something new every day
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+🌷 About Me 🌷 </p>
+👩‍💻 Low Class Beginner Soon To Be Web Developer </p>
+🌱 Currently Yearning HTML and CSS </p>
+💡 Committed To Yearn And Learn </p>
+🚀 Learning something new every day </p>
 
 🎯 My Goal
 
