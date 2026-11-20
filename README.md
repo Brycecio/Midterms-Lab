@@ -42,7 +42,7 @@ To become a successful developer and create amazing things through code.
 
 ## 📫 Connect With Me
 
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@Brycecio](https://github.com/Brycecio)
 - Email:  johnnarbay009@gmail.com
 
 ---
