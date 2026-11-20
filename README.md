@@ -5,7 +5,7 @@
 <td align="center" bgcolor="#102B5C">
 
 <h1>
-  <font color="#FFFFFF">👋 Hello, World!</font>
+  <font color="#FFFFFF">👋 Hello, Everyone!</font>
 </h1>
 
 <h2>
