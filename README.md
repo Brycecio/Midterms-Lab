@@ -1,4 +1,3 @@
-# 📘 Midterms-Lab
 
 > My lab work for the 2nd Semester 🔥
 
